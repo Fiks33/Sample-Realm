@@ -22,7 +22,6 @@ import java.util.ArrayList;
 import io.realm.Realm;
 import io.realm.RealmResults;
 
-
 /**
  * Created by Mochamad Taufik on 08-Nov-16.
  * Email   : thidayat13@gmail.com
